@@ -214,7 +214,7 @@ The project includes several visual analyses:
 ## 🖼️ Project Visuals
 
 
- `![Machine Learning Workflow](images/workflow.png)`
+ `![Machine Learning Workflow](images/workflow.png)
  `![Model Comparison](images/model-comparison.png)`
  `![ROC Curves](images/roc-curves.png)`
  `![Confusion Matrix](images/confusion-matrix.png)`
