@@ -213,16 +213,14 @@ The project includes several visual analyses:
 
 ## 🖼️ Project Visuals
 
-*(Note: Assuming you want to link the images from your `images/` directory, uncomment these links by removing the backticks)*
 
-* `![Machine Learning Workflow](images/workflow.png)`
-* `![Correlation Heatmap](images/correlation-heatmap.png)`
-* `![Model Comparison](images/model-comparison.png)`
-* `![ROC Curves](images/roc-curves.png)`
-* `![Confusion Matrix](images/confusion-matrix.png)`
-* `![Precision-Recall Curves](images/precision-recall.png)`
-* `![SHAP Analysis](images/shap-analysis.png)`
-* `![Calibration Curve](images/calibration-curve.png)`
+ `![Machine Learning Workflow](images/workflow.png)`
+ `![Model Comparison](images/model-comparison.png)`
+ `![ROC Curves](images/roc-curves.png)`
+ `![Confusion Matrix](images/confusion-matrix.png)`
+ `![Precision-Recall Curves](images/precision-recall.png)`
+ `![SHAP Analysis](images/shap-analysis.png)`
+ `![Calibration Curve](images/calibration-curve.png)`
 
 ---
 
@@ -249,7 +247,6 @@ Heart-Disease-Prediction/
 ├── images/
 │   ├── README.md
 │   ├── workflow.png
-│   ├── correlation-heatmap.png
 │   ├── model-comparison.png
 │   ├── roc-curves.png
 │   ├── confusion-matrix.png
