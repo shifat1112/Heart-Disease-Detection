@@ -1,4 +1,4 @@
-```markdown
+
 # ❤️ Heart Disease Prediction Using Machine Learning
 
 A machine learning research project for predicting heart disease from clinical, demographic, behavioral, and lifestyle-related health features.
